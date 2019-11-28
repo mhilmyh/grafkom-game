@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu 3D.unity
+    guid: fa0913115ac1d4fba8b9d10280f4b04d
+  - enabled: 0
+    path: Assets/Scenes/GrassScene.unity
+    guid: bcf9996483280a54ab5b71f6d26d31f7
+  - enabled: 0
+    path: Assets/Scenes/SavanaScene.unity
+    guid: 89bebc369853f0e489ef5b7b7f9be2f4
+  - enabled: 1
+    path: Assets/Survive/Scenes/End Menu.unity
+    guid: a722e3b7967be1c42b8ba7865d28f6fe
+  - enabled: 1
+    path: Assets/Survive/Scenes/Main Scene.unity
+    guid: 7a97140b305e47747b399ae7de708d49
+  m_configObjects: {}
