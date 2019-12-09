@@ -6,7 +6,10 @@
 | Irfan Alghani Khalid (G64170054)       | Game Artist    |
 | Muhammad Hilmy Haidar (G64170030)      | Game Progammer |
 | Komang Elang Surya Prawira (G64170098) | Game Design    |
-  
+
+## Video *Game Play*
+[https://youtu.be/al57q94JQ-M]
+
 ## Screenshot
 ![alt text](https://github.com/mhilmyh/grafkom-game/blob/master/Screenshot-1-Survive.jpg "Screenshot 1")
 
