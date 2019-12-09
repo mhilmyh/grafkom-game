@@ -8,6 +8,7 @@
 | Komang Elang Surya Prawira (G64170098) | Game Design    |
 
 ## Video *Game Play*
+Video *Game Play* Survive tersedia pada tautan berikut :
 [Survive Game Play](https://youtu.be/0jF4H6oIuyg "Survive Game Play")
 
 ## *Screenshot*
