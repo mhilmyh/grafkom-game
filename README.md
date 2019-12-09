@@ -8,9 +8,9 @@
 | Komang Elang Surya Prawira (G64170098) | Game Design    |
 
 ## Video *Game Play*
-[Survive Game Play](https://youtu.be/al57q94JQ-M "Survive Game Play")
+[Survive Game Play](https://youtu.be/0jF4H6oIuyg "Survive Game Play")
 
-## Screenshot
+## *Screenshot*
 ![alt text](https://github.com/mhilmyh/grafkom-game/blob/master/Screenshot-1-Survive.jpg "Screenshot 1")
 
 ![alt text](https://github.com/mhilmyh/grafkom-game/blob/master/Screenshot-2-Survive.jpg "Screenshot 2")
